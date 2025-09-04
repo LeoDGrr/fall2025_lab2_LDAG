@@ -3,4 +3,4 @@
 
 In this project, we created an HTML document with submission form. The user can input data and have it stored in a Google sheet.
 
-[Link to my first page](https://github.com/LeoDGrr/fall2025_lab2_LDAG)
+[Link to my first page](https://github.com/LeoDGrr/fall2025_lab2_LDAG/blob/main/index.html)
